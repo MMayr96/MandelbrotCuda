@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FractalCudaStreams", "FractalCudaStreams\FractalCudaStreams.vcxproj", "{089E1D84-C950-4AB2-9FCC-B2D250FB5F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C7E129-4A84-44D4-8F10-4BA2D54222C2}.Debug|x64.ActiveCfg = Debug|x64
+		{F5C7E129-4A84-44D4-8F10-4BA2D54222C2}.Debug|x64.Build.0 = Debug|x64
+		{F5C7E129-4A84-44D4-8F10-4BA2D54222C2}.Release|x64.ActiveCfg = Release|x64
+		{F5C7E129-4A84-44D4-8F10-4BA2D54222C2}.Release|x64.Build.0 = Release|x64
+		{E11C51C6-B30F-4C96-8E89-002E71CE7B25}.Debug|x64.ActiveCfg = Debug|x64
+		{E11C51C6-B30F-4C96-8E89-002E71CE7B25}.Debug|x64.Build.0 = Debug|x64
+		{E11C51C6-B30F-4C96-8E89-002E71CE7B25}.Release|x64.ActiveCfg = Release|x64
+		{E11C51C6-B30F-4C96-8E89-002E71CE7B25}.Release|x64.Build.0 = Release|x64
+		{C26FD243-1E78-4998-BB2A-C559A133CA28}.Debug|x64.ActiveCfg = Debug|x64
+		{C26FD243-1E78-4998-BB2A-C559A133CA28}.Debug|x64.Build.0 = Debug|x64
+		{C26FD243-1E78-4998-BB2A-C559A133CA28}.Release|x64.ActiveCfg = Release|x64
+		{C26FD243-1E78-4998-BB2A-C559A133CA28}.Release|x64.Build.0 = Release|x64
+		{089E1D84-C950-4AB2-9FCC-B2D250FB5F97}.Debug|x64.ActiveCfg = Debug|x64
+		{089E1D84-C950-4AB2-9FCC-B2D250FB5F97}.Debug|x64.Build.0 = Debug|x64
+		{089E1D84-C950-4AB2-9FCC-B2D250FB5F97}.Release|x64.ActiveCfg = Release|x64
+		{089E1D84-C950-4AB2-9FCC-B2D250FB5F97}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFFEEE8-D5E0-4A20-AFCB-B255205EFD6B}
+	EndGlobalSection
+EndGlobal
